@@ -1,0 +1,34 @@
+?- male('Princess Charlotte').
+?- female('Princess Beatrice').
+?- mother('Queen Elizzabeth II', 'Zara Phillips').
+?- father('Prince Charles', 'Kate Middleton').
+?- parent('Peter Phillips', 'Isla Phillips').
+?- parent(X, 'Princess Eugenie').
+?- child('Mia Grace Tindall', 'Mike Tindall').
+?- child('Prince Edward', X).
+?- married('Prince Harry', 'Autumn Kelly').
+?- married('Peter Phillips', X).
+?- divorced('Sarah Ferguson', 'Prince Andrew').
+?- divorced('Princess Anne', X).
+?- husband('Princess Diana', 'Prince Charles').
+?- husband(X, 'Kate Middleton').
+?- wife('Princess Anne', 'Timothy Laurence').
+?- wife('Sophie Rhys-jones', X).
+?- grandparent('Prince Phillip', 'Princess Eugenie').
+?- grandparent(X, 'Prince George').
+?- grandfather('Captain Mark Phillips', 'Savannah Phillips').
+?- grandfather('Captain Mark Phillips', X).
+?- grandmother('Camilla Parker Bowles', 'Princess Charlotte').
+?- grandmother(X, 'James, Viscount Severn').
+?- grandchild('Mia Grace Tindall', 'Timothy Laurence').
+?- granddaughter('Princess Beatrice', 'Queen Elizabeth II').
+?- granddaughter(X, 'Queen Elizabeth II').
+?- grandson('Prince George', 'Queen Elizabeth II').
+?- sibling('Camilla Parker Bowles', 'Prince Andrew').
+?- brother('Prince Edward', 'Princess Anne').
+?- brother(X, 'Zara Phillips').
+?- sister('Savannah Phillips', 'Princess Charlotte').
+?- aunt('Sophie Rhys-jones', 'Prince William').
+?- uncle('Prince Charles', 'James, Viscount Severn').
+?- niece('Lady Louise Mountbatten-Windsor', 'Sarah Ferguson').
+?- newphew('Prince George', 'Autumn Kelly').
