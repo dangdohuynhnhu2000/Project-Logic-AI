@@ -1,7 +1,7 @@
 ?-grandchild(Who,"Ruth").
 ?-great_grandfather(Who,"Ben").
 ?-wife(Who,"Scott").
-?-wife(Who,"Micheal").
+?-wife(Who,"Michael").
 ?-sibling(Who,"Alice").
 ?-aunt("Ruby",Who).
 ?-uncle(Who,"Alan").
